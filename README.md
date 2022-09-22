@@ -1,2 +1,0 @@
-# esbuild-rails-main
- 
